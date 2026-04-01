@@ -12,7 +12,7 @@ online-book-store/
 ├── Books.csv                              # Book catalog dataset (500 records)
 ├── Customers.csv                          # Customer dataset (500 records)
 ├── Orders.csv                             # Orders dataset (500 records)
-└── Online_music_store_project_Q_A.sql     # All SQL queries (basic + advanced)
+└── Online Book store project.sql          # All SQL queries (basic + advanced)
 ```
 
 ---
