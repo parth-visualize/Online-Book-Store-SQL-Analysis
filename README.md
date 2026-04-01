@@ -94,7 +94,7 @@ online-book-store/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/online-book-store.git
+   git clone https://github.com/parth-visualize/Online-Book-Store-SQL-Analysis.git
    cd online-book-store
    ```
 
@@ -144,7 +144,7 @@ online-book-store/
    ```
 
 5. **Run the queries**
-   Open `Online_music_store_project_Q_A.sql` in your SQL client and execute the queries.
+   Open `Online Book store project.sql` in your SQL client and execute the queries.
 
 ---
 
@@ -175,3 +175,6 @@ online-book-store/
 
 ## 🙋‍♂️ Author
 **Parth**  
+
+
+If you like this project, feel free to ⭐ the repository.
